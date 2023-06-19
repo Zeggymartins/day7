@@ -1,0 +1,23 @@
+.box{
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+    font-size: 40px;
+}
+.square{
+    box-shadow: 1px 1px 10px silver;
+    width: 80%;
+    margin: auto;
+}
+.table{
+    border-style: solid 3px;
+}
+.firstrow{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 0px;
+    
+}
